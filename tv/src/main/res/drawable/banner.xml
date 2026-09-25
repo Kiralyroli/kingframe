@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 320x180 KingFrame banner: flat black, thin photo frame, amber crown over a landscape. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path android:fillColor="#0D0D0F" android:pathData="M0,0h320v180h-320z" />
+    <path android:fillColor="#00000000" android:strokeColor="#3A3A40" android:strokeWidth="2"
+        android:pathData="M100,45h120v90h-120z" />
+    <path android:fillColor="#FFB547" android:pathData="M146,86L146,66L154,75L160,62L166,75L174,66L174,86Z" />
+    <path android:fillColor="#F2F2F2" android:pathData="M112,124L140,97L158,114L172,102L208,124Z" />
+</vector>

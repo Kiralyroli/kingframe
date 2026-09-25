@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- KingFrame mark: near-black tile, quiet white landscape, a small amber crown above it. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path android:fillColor="#0D0D0F" android:pathData="M14,2h20a12,12 0,0 1,12 12v20a12,12 0,0 1,-12 12h-20a12,12 0,0 1,-12 -12v-20a12,12 0,0 1,12 -12z" />
+    <path android:fillColor="#FFB547" android:pathData="M18,21L18,12.5L21.3,16L24,10.5L26.7,16L30,12.5L30,21Z" />
+    <path android:fillColor="#F2F2F2" android:pathData="M9,36L18,26L24,32L29,28L39,36Z" />
+</vector>
